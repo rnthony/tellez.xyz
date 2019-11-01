@@ -2,8 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://tellez.xyz/index.html</loc>
-    <lastmod>2019-10-30</lastmod>
+    <lastmod>2019-11-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://tellez.xyz/images/instagram%20icon.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tellez.xyz/images/emailicon.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tellez.xyz/images/website%20map.png</image:loc>
+    </image:image>
   </url>
 </urlset>
