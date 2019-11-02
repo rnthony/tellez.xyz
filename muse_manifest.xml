@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tellez.xyz" resolutions="1x" timestamp="1572642084648">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tellez.xyz" resolutions="1x" timestamp="1572725333747">
   <folder name="css">
     <file name="site_global.css" crc="3865173809"/>
     <file name="master_a-master.css" crc="241628773" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index"/>
-    <file name="index.css" crc="3827024245" ref="index"/>
-    <file name="nomq_index.css" crc="341108834" ref="index"/>
+    <file name="index.css" crc="3807635227" ref="index"/>
+    <file name="nomq_index.css" crc="4201849479" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="sfprotext-regular.woff" crc="416383421"/>
@@ -46,9 +46,11 @@
     </file>
     <file name="website map.png" crc="4243283499" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="website map-crop-u1893.png" crc="3856123047" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="57864161" seo="true" mt="1572642046989" redirect="true"/>
+  <file name="index.html" crc="310345322" seo="true" mt="1572725272828" redirect="true"/>
 </manifest>
