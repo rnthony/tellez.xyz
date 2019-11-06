@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tellez.xyz" resolutions="1x" timestamp="1573072563745">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tellez.xyz" resolutions="1x" timestamp="1573074247131">
   <folder name="css">
     <file name="site_global.css" crc="3865173809"/>
     <file name="master_a-master.css" crc="342037651" ref="index"/>
@@ -37,14 +37,8 @@
     </file>
     <file name="instagram icon.png" crc="466986829" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="emailicon.png" crc="311954492" seo="true" ref="phone>index:index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="menuicon.png" crc="4035438126" seo="true" ref="phone>index">
@@ -74,11 +68,9 @@
   <folder name="phone">
     <folder name="css">
       <file name="master_a-master.css" crc="3840076905" ref="phone>index"/>
-      <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="phone>index"/>
-      <file name="index.css" crc="389660886" ref="phone>index"/>
-      <file name="nomq_index.css" crc="3824530138" ref="phone>index"/>
+      <file name="index.css" crc="222052835" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="3977653755" seo="true" mt="1573072562183" redirect="true"/>
+    <file name="index.html" crc="3966121902" seo="true" mt="1573074090593" redirect="true"/>
   </folder>
   <file name="index.html" crc="4081570827" seo="true" mt="1573069786398" redirect="true"/>
 </manifest>
