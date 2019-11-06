@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tellez.xyz" resolutions="1x" timestamp="1573060768311">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tellez.xyz" resolutions="1x" timestamp="1573061086357">
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="4064624117" ref="phone>index"/>
-      <file name="index.css" crc="184125678" ref="phone>index"/>
+      <file name="master_a-master.css" crc="14270390" ref="phone>index"/>
+      <file name="index.css" crc="3789443529" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="167716964" seo="true" mt="1573060732390" redirect="true"/>
+    <file name="index.html" crc="4185985225" seo="true" mt="1573061075351" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="3865173809"/>
