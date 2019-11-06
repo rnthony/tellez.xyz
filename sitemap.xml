@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://tellez.xyz/index.html</loc>
-    <lastmod>2019-11-03</lastmod>
+    <lastmod>2019-11-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://tellez.xyz/phone/index.html"/>
@@ -13,7 +13,7 @@
       <image:loc>http://tellez.xyz/images/emailicon.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tellez.xyz/images/website%20map.png</image:loc>
+      <image:loc>http://tellez.xyz/images/new%20map%20(pkmn).png</image:loc>
     </image:image>
   </url>
 </urlset>
