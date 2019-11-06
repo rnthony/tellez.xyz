@@ -7,22 +7,28 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   
   <script type="text/javascript">
-   // Update the 'nojs'/'js' class on the html node
+   // Redirect to phone/tablet as necessary
+(function(c,b,d){var a=function(){if(navigator.maxTouchPoints>1)return!0;if(window.matchMedia&&window.matchMedia("(-moz-touch-enabled)").matches)return!0;for(var a=["Webkit","Moz","O","ms","Khtml"],b=0,c=a.length;b<c;b++){var d=a[b]+"MaxTouchPoints";if(d in navigator&&navigator[d])return!0}try{return document.createEvent("TouchEvent"),!0}catch(f){}return!1}(),f=function(a){a+="=";for(var b=document.cookie.split(";"),c=0;c<b.length;c++){for(var d=b[c];d.charAt(0)==" ";)d=d.substring(1,d.length);if(d.indexOf(a)==
+0)return d.substring(a.length,d.length)}return null};if(f("inbrowserediting")!="true"){var h,f=f("devicelock");f=="phone"&&d?h=d:f=="tablet"&&b&&(h=b);if(f!=c&&!h)if(window.matchMedia)window.matchMedia("(max-device-width: 415px)").matches&&d?h=d:window.matchMedia("(max-device-width: 960px)").matches&&b&&a&&(h=b);else{var c=Math.min(screen.width,screen.height)/(window.devicePixelRatio||1),f=window.screen.systemXDPI||0,g=window.screen.systemYDPI||0,f=f>0&&g>0?Math.min(screen.width/f,screen.height/g):
+0;(c<=370||f!=0&&f<=3)&&d?h=d:c<=960&&b&&a&&(h=b)}if(h)document.location=h+(document.location.search||"")+(document.location.hash||""),document.write('<style type="text/css">body {visibility:hidden}</style>')}})("desktop","","phone/index.html");
+
+// Update the 'nojs'/'js' class on the html node
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "jquery.musepolyfill.bgsize.js", "webpro.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "jquery.museresponsive.js", "require.js", "index.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "require.js", "jquery.musepolyfill.bgsize.js", "webpro.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "jquery.museresponsive.js", "index.css"], "outOfDate":[]};
 </script>
   
+  <link media="only screen and (max-width: 370px)" rel="alternate" href="http://tellez.xyz/phone/index.html"/>
   <title>Home</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=3865173809"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=241628773"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=3807635227" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=342037651"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=377221818" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
   <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_a-master.css?crc=3824530138"/>
-  <link rel="stylesheet" type="text/css" href="css/nomq_index.css?crc=4201849479" id="nomq_pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_index.css?crc=148440277" id="nomq_pagesheet"/>
   <![endif]-->
     <!--/*
 
@@ -65,7 +71,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        </div>
       </div>
      </div>
-     <div class="browser_width colelem" id="u191-27-bw">
+     <div class="browser_width colelem shared_content" id="u191-27-bw" data-content-guid="u191-27-bw_content">
       <div class="clearfix" id="u191-27"><!-- content -->
        <p id="u191-4"><span id="u191"><span class="actAsDiv normal_text" id="u192"><!-- content --><span class="actAsDiv museBGSize rounded-corners shared_content" id="u193" data-sizePolicy="fixed" data-pintopage="page_fixedLeft" data-content-guid="u193_content"><!-- simple frame --></span></span></span><span id="u191-2" class="shared_content" data-content-guid="u191-2_content">about anthony </span><span id="u191-3" class="shared_content" data-content-guid="u191-3_content">(he/him/his)</span></p>
        <p id="u191-5" class="shared_content" data-content-guid="u191-5_content">&nbsp;</p>
@@ -111,7 +117,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        </div>
       </div>
       <div class="rounded-corners clip_frame grpelem" id="u1893"><!-- image -->
-       <img class="block temp_no_img_src" id="u1893_img" data-orig-src="images/website%20map-crop-u1893.png?crc=3856123047" alt="" data-heightwidthratio="1" data-image-width="444" data-image-height="444" src="images/blank.gif?crc=4208392903"/>
+       <img class="block temp_no_img_src" id="u1893_img" data-orig-src="images/website%20map.png?crc=3762896176" alt="" data-heightwidthratio="1" data-image-width="500" data-image-height="500" src="images/blank.gif?crc=4208392903"/>
       </div>
      </div>
     </div>
@@ -121,7 +127,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     </div>
    </div>
   </div>
-  <div class="breakpoint" id="bp_960" data-max-width="960"><!-- responsive breakpoint node -->
+  <div class="breakpoint" id="bp_960" data-min-width="901" data-max-width="960"><!-- responsive breakpoint node -->
    <div class="rounded-corners clearfix temp_no_id" data-orig-id="page"><!-- group -->
     <div class="clearfix grpelem temp_no_id" data-orig-id="ppu97"><!-- column -->
      <span class="clearfix colelem placeholder" data-placeholder-for="pu97_content"><!-- placeholder node --></span>
@@ -147,7 +153,6 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        <span class="placeholder" data-placeholder-for="u191-25_content"><!-- placeholder node --></span>
       </div>
      </div>
-     <span class="browser_width colelem placeholder" data-placeholder-for="u3802-5-bw_content"><!-- placeholder node --></span>
      <div class="clearfix colelem temp_no_id" data-orig-id="ppamphletu1895"><!-- group -->
       <div class="PamphletWidget clearfix grpelem temp_no_id" data-orig-id="pamphletu1895"><!-- none box -->
        <div class="ThumbGroup clearfix grpelem temp_no_id" data-orig-id="u1935"><!-- none box -->
@@ -163,12 +168,50 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
         </div>
        </div>
       </div>
-      <div class="rounded-corners clip_frame grpelem temp_no_id" data-orig-id="u1893"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/website%20map.png?crc=4243283499" alt="" width="381" height="381" data-orig-id="u1893_img" src="images/blank.gif?crc=4208392903"/>
+      <span class="browser_width grpelem placeholder" data-placeholder-for="u3802-5-bw_content"><!-- placeholder node --></span>
+     </div>
+    </div>
+    <div class="rounded-corners clip_frame temp_no_id" data-orig-id="u1893"><!-- image -->
+     <img class="block temp_no_id temp_no_img_src" data-orig-src="images/website%20map.png?crc=3762896176" alt="" width="381" height="381" data-orig-id="u1893_img" src="images/blank.gif?crc=4208392903"/>
+    </div>
+    <div class="verticalspacer" data-offset-top="1075" data-content-above-spacer="1075" data-content-below-spacer="61"></div>
+    <span class="browser_width grpelem placeholder" data-placeholder-for="u2909-bw_content"><!-- placeholder node --></span>
+   </div>
+  </div>
+  <div class="breakpoint" id="bp_900" data-max-width="900"><!-- responsive breakpoint node -->
+   <div class="rounded-corners clearfix borderbox temp_no_id" data-orig-id="page"><!-- group -->
+    <div class="clearfix grpelem temp_no_id" data-orig-id="ppu97"><!-- column -->
+     <span class="clearfix colelem placeholder" data-placeholder-for="pu97_content"><!-- placeholder node --></span>
+     <div class="browser_width colelem temp_no_id" data-orig-id="u645-bw">
+      <div class="temp_no_id" data-orig-id="u645"><!-- group -->
+       <div class="clearfix temp_no_id" data-orig-id="u645_align_to_page">
+        <span class="clearfix grpelem placeholder" data-placeholder-for="u646-8_content"><!-- placeholder node --></span>
+        <span class="clearfix grpelem placeholder" data-placeholder-for="u647-8_content"><!-- placeholder node --></span>
+        <span class="clearfix grpelem placeholder" data-placeholder-for="u648-6_content"><!-- placeholder node --></span>
+       </div>
+      </div>
+     </div>
+     <span class="browser_width colelem placeholder" data-placeholder-for="u191-27-bw_content"><!-- placeholder node --></span>
+     <span class="browser_width colelem placeholder" data-placeholder-for="u3802-5-bw_content"><!-- placeholder node --></span>
+     <div class="rounded-corners clip_frame colelem temp_no_id" data-orig-id="u1893"><!-- image -->
+      <img class="block temp_no_id temp_no_img_src" data-orig-src="images/website%20map.png?crc=3762896176" alt="" data-heightwidthratio="1" data-image-width="381" data-image-height="381" data-orig-id="u1893_img" src="images/blank.gif?crc=4208392903"/>
+     </div>
+     <div class="PamphletWidget clearfix allow_click_through colelem temp_no_id" data-visibility="changed" style="visibility:hidden" data-sizePolicy="fluidWidth" data-pintopage="page_fixedCenter" data-orig-id="pamphletu1895"><!-- none box -->
+      <div class="ThumbGroup clearfix grpelem temp_no_id" data-col-pos="0" data-orig-id="u1935"><!-- none box -->
+       <div class="popup_anchor allow_click_through grpelem temp_no_id" data-col-pos="0" data-orig-id="u3180popup">
+        <div class="Thumb popup_element temp_no_id" data-col-pos="0" data-orig-id="u3180"><!-- simple frame --></div>
+       </div>
+      </div>
+      <div class="popup_anchor allow_click_through grpelem temp_no_id" data-col-pos="1" data-orig-id="u1898popup">
+       <div class="ContainerGroup clearfix temp_no_id" data-col-pos="1" data-orig-id="u1898"><!-- stack box -->
+        <div class="Container clearfix grpelem temp_no_id" data-col-pos="0" data-orig-id="u3198"><!-- group -->
+         <span class="rounded-corners clearfix grpelem placeholder" data-placeholder-for="u3209-18_content"><!-- placeholder node --></span>
+        </div>
+       </div>
       </div>
      </div>
     </div>
-    <div class="verticalspacer" data-offset-top="1192" data-content-above-spacer="1192" data-content-below-spacer="61"></div>
+    <div class="verticalspacer" data-offset-top="1629" data-content-above-spacer="1628" data-content-below-spacer="61" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
     <span class="browser_width grpelem placeholder" data-placeholder-for="u2909-bw_content"><!-- placeholder node --></span>
    </div>
   </div>
@@ -191,7 +234,7 @@ Muse.Utils.resizeHeight('.browser_width');/* resize height */
 Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
 Muse.Utils.resizeHeight('.popup_anchor.allow_click_through');/* resize height */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
-Muse.Utils.initWidget('#pamphletu1895', ['#bp_infinity'], function(elem) { return new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'stack',event:'click',deactivationEvent:'',autoPlay:false,displayInterval:3000,transitionStyle:'fading',transitionDuration:500,hideAllContentsFirst:false,triggersOnTop:false,shuffle:false,enableSwipe:true,resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false,isResponsive:true}); });/* #pamphletu1895 */
+Muse.Utils.initWidget('#pamphletu1895', ['#bp_infinity', '#bp_900'], function(elem) { return new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'stack',event:'click',deactivationEvent:'',autoPlay:false,displayInterval:3000,transitionStyle:'fading',transitionDuration:500,hideAllContentsFirst:false,triggersOnTop:false,shuffle:false,enableSwipe:true,resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false,isResponsive:true}); });/* #pamphletu1895 */
 Muse.Utils.initWidget('#pamphletu1895', ['#bp_960'], function(elem) { return new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'stack',event:'click',deactivationEvent:'',autoPlay:false,displayInterval:3000,transitionStyle:'fading',transitionDuration:500,hideAllContentsFirst:false,triggersOnTop:false,shuffle:false,enableSwipe:true,resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false,isResponsive:false}); });/* #pamphletu1895 */
 Muse.Utils.fullPage('#page');/* 100% height page */
 $( '.breakpoint' ).registerBreakpoint();/* Register breakpoints */
