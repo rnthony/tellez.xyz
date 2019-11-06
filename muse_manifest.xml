@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tellez.xyz" resolutions="1x" timestamp="1573052626635">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tellez.xyz" resolutions="1x" timestamp="1573058837548">
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="3785702303" ref="phone>index"/>
-      <file name="index.css" crc="3997433902" ref="phone>index"/>
+      <file name="master_a-master.css" crc="4064624117" ref="phone>index"/>
+      <file name="index.css" crc="529646590" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="3839447077" seo="true" mt="1573052601122" redirect="true"/>
+    <file name="index.html" crc="4094303113" seo="true" mt="1573053957602" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="3865173809"/>
@@ -56,9 +56,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="displaypic.jpg" crc="47022218" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="homeicon.png" crc="4125177970" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
