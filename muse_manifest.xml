@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tellez.xyz" resolutions="1x" timestamp="1573074247131">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tellez.xyz" resolutions="1x" timestamp="1573083339361">
   <folder name="css">
     <file name="site_global.css" crc="3865173809"/>
     <file name="master_a-master.css" crc="342037651" ref="index"/>
@@ -24,24 +24,21 @@
     <file name="museconfig.js" crc="4286661555" ref="phone>index:index"/>
     <file name="jquery.watch.js" crc="51536988" ref="phone>index:index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="phone>index:index"/>
-    <file name="webpro.js" crc="4059564322" ref="phone>index:index"/>
-    <file name="musewpslideshow.js" crc="3862962738" ref="phone>index:index"/>
-    <file name="jquery.museoverlay.js" crc="4147669564" ref="phone>index:index"/>
-    <file name="touchswipe.js" crc="4075097462" ref="phone>index:index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
     <file name="require.js" crc="7928878" ref="phone>index:index"/>
     <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="selfie.jpg" crc="4121342533" ref="phone>index">
+    <file name="selfie.jpg" crc="4279311831" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="instagram icon.png" crc="466986829" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="emailicon.png" crc="311954492" seo="true" ref="phone>index:index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="menuicon.png" crc="4035438126" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="homeicon.png" crc="4125177970" seo="true" ref="phone>index">
@@ -68,9 +65,9 @@
   <folder name="phone">
     <folder name="css">
       <file name="master_a-master.css" crc="3840076905" ref="phone>index"/>
-      <file name="index.css" crc="222052835" ref="phone>index"/>
+      <file name="index.css" crc="4188484176" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="3966121902" seo="true" mt="1573074090593" redirect="true"/>
+    <file name="index.html" crc="343013773" seo="true" mt="1573083327351" redirect="true"/>
   </folder>
   <file name="index.html" crc="4081570827" seo="true" mt="1573069786398" redirect="true"/>
 </manifest>
