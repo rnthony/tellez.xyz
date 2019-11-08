@@ -1,4 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tellez.xyz" resolutions="1x" timestamp="1573240268586">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tellez.xyz" resolutions="1x" timestamp="1573241043069">
+  <folder name="assets">
+    <file name="anthony-tellez-resume.pdf" crc="159904318" seo="true" mt="1573240790000"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="3865173809"/>
     <file name="master_a-master.css" crc="342037651" ref="index"/>
@@ -139,12 +142,12 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="138834008" ref="phone>index:phone>untitled-2"/>
-      <file name="index.css" crc="3990744640" ref="phone>index"/>
-      <file name="untitled-2.css" crc="48447270" ref="phone>untitled-2"/>
+      <file name="master_a-master.css" crc="4048386589" ref="phone>index:phone>untitled-2"/>
+      <file name="index.css" crc="4137309358" ref="phone>index"/>
+      <file name="untitled-2.css" crc="83431595" ref="phone>untitled-2"/>
     </folder>
-    <file name="index.html" crc="4289173367" seo="true" mt="1573240253320" redirect="true"/>
-    <file name="untitled-2.html" crc="3940907768" seo="true" mt="1573240253320" redirect="true"/>
+    <file name="index.html" crc="280277361" seo="true" mt="1573241017281" redirect="true"/>
+    <file name="untitled-2.html" crc="31625480" seo="true" mt="1573241017281" redirect="true"/>
   </folder>
   <file name="index.html" crc="4081570827" seo="true" mt="1573219817498" redirect="true"/>
 </manifest>
