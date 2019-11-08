@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tellez.xyz" resolutions="1x" timestamp="1573239178671">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tellez.xyz" resolutions="1x" timestamp="1573240268586">
   <folder name="css">
     <file name="site_global.css" crc="3865173809"/>
     <file name="master_a-master.css" crc="342037651" ref="index"/>
@@ -41,11 +41,11 @@
     <file name="emailicon.png" crc="311954492" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="homeicon.png" crc="4125177970" seo="true" ref="phone>index:phone>untitled-2">
+    <file name="homeicon.png" crc="4182938643" seo="true" ref="phone>index:phone>untitled-2">
       <caption webpage="index" alt=""/>
       <caption webpage="untitled-2" alt=""/>
     </file>
-    <file name="doccument icon.png" crc="4228146849" seo="true" ref="phone>index:phone>untitled-2">
+    <file name="doccument icon.png" crc="202823683" seo="true" ref="phone>index:phone>untitled-2">
       <caption webpage="index" alt=""/>
       <caption webpage="untitled-2" alt=""/>
     </file>
@@ -60,10 +60,11 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="menuicon.png" crc="4035438126" seo="true" ref="phone>index">
+    <file name="menuicon.png" crc="4035438126" seo="true" ref="phone>index:phone>untitled-2">
       <caption webpage="index" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
     </file>
-    <file name="mapicon.png" crc="4002186777" seo="true" ref="phone>index:phone>untitled-2">
+    <file name="mapicon.png" crc="4286597709" seo="true" ref="phone>index:phone>untitled-2">
       <caption webpage="index" alt=""/>
       <caption webpage="untitled-2" alt=""/>
     </file>
@@ -138,12 +139,12 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="267172556" ref="phone>index:phone>untitled-2"/>
-      <file name="index.css" crc="3883528226" ref="phone>index"/>
-      <file name="untitled-2.css" crc="4167919512" ref="phone>untitled-2"/>
+      <file name="master_a-master.css" crc="138834008" ref="phone>index:phone>untitled-2"/>
+      <file name="index.css" crc="3990744640" ref="phone>index"/>
+      <file name="untitled-2.css" crc="48447270" ref="phone>untitled-2"/>
     </folder>
-    <file name="index.html" crc="3954962857" seo="true" mt="1573239126101" redirect="true"/>
-    <file name="untitled-2.html" crc="187986182" seo="true" mt="1573239126101" redirect="true"/>
+    <file name="index.html" crc="4289173367" seo="true" mt="1573240253320" redirect="true"/>
+    <file name="untitled-2.html" crc="3940907768" seo="true" mt="1573240253320" redirect="true"/>
   </folder>
   <file name="index.html" crc="4081570827" seo="true" mt="1573219817498" redirect="true"/>
 </manifest>
