@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tellez.xyz" resolutions="1x" timestamp="1573241043069">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tellez.xyz" resolutions="1x" timestamp="1573244349693">
   <folder name="assets">
     <file name="anthony-tellez-resume.pdf" crc="159904318" seo="true" mt="1573240790000"/>
   </folder>
@@ -63,7 +63,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="menuicon.png" crc="4035438126" seo="true" ref="phone>index:phone>untitled-2">
+    <file name="menuicon.png" crc="4035438126" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
       <caption webpage="untitled-2" alt=""/>
     </file>
@@ -139,15 +139,30 @@
     <file name="spritepoi1.png" crc="3894011559" seo="true" ref="phone>untitled-2">
       <caption webpage="untitled-2" alt=""/>
     </file>
+    <file name="uconn logo.png" crc="46512102" seo="true" ref="phone>untitled-2">
+      <caption webpage="untitled-2" alt=""/>
+    </file>
+    <file name="bcclogo.png" crc="3799899517" seo="true" ref="phone>untitled-2">
+      <caption webpage="untitled-2" alt=""/>
+    </file>
+    <file name="rutgerslogo.png" crc="4255285267" seo="true" ref="phone>untitled-2">
+      <caption webpage="untitled-2" alt=""/>
+    </file>
+    <file name="pacelogo.png" crc="512039837" seo="true" ref="phone>untitled-2">
+      <caption webpage="untitled-2" alt=""/>
+    </file>
+    <file name="berkeleylogo.png" crc="207691749" seo="true" ref="phone>untitled-2">
+      <caption webpage="untitled-2" alt=""/>
+    </file>
   </folder>
   <folder name="phone">
     <folder name="css">
       <file name="master_a-master.css" crc="4048386589" ref="phone>index:phone>untitled-2"/>
-      <file name="index.css" crc="4137309358" ref="phone>index"/>
-      <file name="untitled-2.css" crc="83431595" ref="phone>untitled-2"/>
+      <file name="index.css" crc="3797232227" ref="phone>index"/>
+      <file name="untitled-2.css" crc="529890498" ref="phone>untitled-2"/>
     </folder>
-    <file name="index.html" crc="280277361" seo="true" mt="1573241017281" redirect="true"/>
-    <file name="untitled-2.html" crc="31625480" seo="true" mt="1573241017281" redirect="true"/>
+    <file name="index.html" crc="494402538" seo="true" mt="1573244335470" redirect="true"/>
+    <file name="untitled-2.html" crc="4254594892" seo="true" mt="1573244165103" redirect="true"/>
   </folder>
   <file name="index.html" crc="4081570827" seo="true" mt="1573219817498" redirect="true"/>
 </manifest>
