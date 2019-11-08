@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tellez.xyz" resolutions="1x" timestamp="1573237458013">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tellez.xyz" resolutions="1x" timestamp="1573239178671">
   <folder name="css">
     <file name="site_global.css" crc="3865173809"/>
     <file name="master_a-master.css" crc="342037651" ref="index"/>
@@ -37,14 +37,8 @@
     </file>
     <file name="instagram icon.png" crc="466986829" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="emailicon.png" crc="311954492" seo="true" ref="phone>index:index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="homeicon.png" crc="4125177970" seo="true" ref="phone>index:phone>untitled-2">
@@ -144,14 +138,12 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="4070363469" ref="phone>index:phone>untitled-2"/>
-      <file name="index.css" crc="422733555" ref="phone>index"/>
-      <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="phone>index:phone>untitled-2"/>
-      <file name="untitled-2.css" crc="410769408" ref="phone>untitled-2"/>
-      <file name="nomq_untitled-2.css" crc="3824530138" ref="phone>untitled-2"/>
+      <file name="master_a-master.css" crc="267172556" ref="phone>index:phone>untitled-2"/>
+      <file name="index.css" crc="3883528226" ref="phone>index"/>
+      <file name="untitled-2.css" crc="4167919512" ref="phone>untitled-2"/>
     </folder>
-    <file name="index.html" crc="4174635382" seo="true" mt="1573237410339" redirect="true"/>
-    <file name="untitled-2.html" crc="3927892781" seo="true" mt="1573237034486" redirect="true"/>
+    <file name="index.html" crc="3954962857" seo="true" mt="1573239126101" redirect="true"/>
+    <file name="untitled-2.html" crc="187986182" seo="true" mt="1573239126101" redirect="true"/>
   </folder>
   <file name="index.html" crc="4081570827" seo="true" mt="1573219817498" redirect="true"/>
 </manifest>
