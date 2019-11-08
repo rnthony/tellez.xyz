@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tellez.xyz" resolutions="1x" timestamp="1573083791621">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tellez.xyz" resolutions="1x" timestamp="1573237458013">
   <folder name="css">
     <file name="site_global.css" crc="3865173809"/>
     <file name="master_a-master.css" crc="342037651" ref="index"/>
@@ -18,17 +18,17 @@
     <file name="sfprodisplay-semibold1.svg" crc="4275929756"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
-    <file name="museutils.js" crc="340535759" ref="phone>index:index"/>
-    <file name="whatinput.js" crc="86476730" ref="phone>index:index"/>
-    <file name="museconfig.js" crc="4286661555" ref="phone>index:index"/>
-    <file name="jquery.watch.js" crc="51536988" ref="phone>index:index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index:phone>untitled-2"/>
+    <file name="museutils.js" crc="340535759" ref="phone>index:index:phone>untitled-2"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:index:phone>untitled-2"/>
+    <file name="museconfig.js" crc="4286661555" ref="phone>index:index:phone>untitled-2"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index:index:phone>untitled-2"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="phone>index:index"/>
-    <file name="webpro.js" crc="4059564322" ref="index:phone>index"/>
-    <file name="musewpslideshow.js" crc="3862962738" ref="index:phone>index"/>
-    <file name="jquery.museoverlay.js" crc="4147669564" ref="index:phone>index"/>
-    <file name="touchswipe.js" crc="4075097462" ref="index:phone>index"/>
-    <file name="require.js" crc="7928878" ref="phone>index:index"/>
+    <file name="webpro.js" crc="4059564322" ref="index:phone>index:phone>untitled-2"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index:phone>index:phone>untitled-2"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index:phone>index:phone>untitled-2"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index:phone>index:phone>untitled-2"/>
+    <file name="require.js" crc="7928878" ref="phone>index:index:phone>untitled-2"/>
     <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
   </folder>
   <folder name="images">
@@ -47,14 +47,13 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="homeicon.png" crc="4125177970" seo="true" ref="phone>index">
+    <file name="homeicon.png" crc="4125177970" seo="true" ref="phone>index:phone>untitled-2">
       <caption webpage="index" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
     </file>
-    <file name="user profile.png" crc="404569529" seo="true" ref="phone>index">
+    <file name="doccument icon.png" crc="4228146849" seo="true" ref="phone>index:phone>untitled-2">
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="doccument icon.png" crc="4228146849" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
     </file>
     <file name="img_4674.jpg" crc="441629096" ref="index">
       <caption webpage="index" alt=""/>
@@ -70,15 +69,89 @@
     <file name="menuicon.png" crc="4035438126" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="mapicon.png" crc="4002186777" seo="true" ref="phone>index:phone>untitled-2">
+      <caption webpage="index" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+    </file>
+    <file name="new map (pkmn)301x301.png" crc="3985189733" seo="true" ref="phone>untitled-2">
+      <caption webpage="untitled-2" alt=""/>
+    </file>
+    <file name="spriteroute1.jpg" crc="272367059" seo="true" ref="phone>untitled-2">
+      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+    </file>
+    <file name="spriteroute2.png" crc="418703779" seo="true" ref="phone>untitled-2">
+      <caption webpage="untitled-2" alt=""/>
+    </file>
+    <file name="spriteroute3.png" crc="32294442" seo="true" ref="phone>untitled-2">
+      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+    </file>
+    <file name="spriteroute7.png" crc="179533956" seo="true" ref="phone>untitled-2">
+      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+    </file>
+    <file name="spriteroute6.jpg" crc="3961662668" seo="true" ref="phone>untitled-2">
+      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+    </file>
+    <file name="spritepoi2.png" crc="4152153397" seo="true" ref="phone>untitled-2">
+      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+    </file>
+    <file name="spritepoi1.png" crc="3894011559" seo="true" ref="phone>untitled-2">
+      <caption webpage="untitled-2" alt=""/>
+    </file>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="3840076905" ref="phone>index"/>
-      <file name="index.css" crc="4161690709" ref="phone>index"/>
-      <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="phone>index"/>
-      <file name="nomq_index.css" crc="3824530138" ref="phone>index"/>
+      <file name="master_a-master.css" crc="4070363469" ref="phone>index:phone>untitled-2"/>
+      <file name="index.css" crc="422733555" ref="phone>index"/>
+      <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="phone>index:phone>untitled-2"/>
+      <file name="untitled-2.css" crc="410769408" ref="phone>untitled-2"/>
+      <file name="nomq_untitled-2.css" crc="3824530138" ref="phone>untitled-2"/>
     </folder>
-    <file name="index.html" crc="3942360777" seo="true" mt="1573083689449" redirect="true"/>
+    <file name="index.html" crc="4174635382" seo="true" mt="1573237410339" redirect="true"/>
+    <file name="untitled-2.html" crc="3927892781" seo="true" mt="1573237034486" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4081570827" seo="true" mt="1573083641675" redirect="true"/>
+  <file name="index.html" crc="4081570827" seo="true" mt="1573219817498" redirect="true"/>
 </manifest>
