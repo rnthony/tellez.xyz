@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tellez.xyz" resolutions="1x" timestamp="1573287290502">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tellez.xyz" resolutions="1x" timestamp="1573287634006">
   <folder name="assets">
     <file name="anthony-tellez-resume.pdf" crc="159904318" seo="true" mt="1573240790000"/>
   </folder>
@@ -139,11 +139,11 @@
     <file name="berkeleylogo.png" crc="319225590" seo="true" ref="phone>untitled-2">
       <caption webpage="untitled-2" alt=""/>
     </file>
-    <file name="menuicon.svg" crc="4121922226" seo="true" ref="phone>untitled-2:phone>index">
+    <file name="menuicon.svg" crc="4150051201" seo="true" ref="phone>untitled-2:phone>index">
       <caption webpage="index" alt=""/>
       <caption webpage="untitled-2" alt=""/>
     </file>
-    <file name="menuicon_poster_.png" crc="3994088639" ref="phone>index"/>
+    <file name="menuicon_poster_.png" crc="318930452" ref="phone>index"/>
     <file name="scout.png" crc="4240274540" seo="true" ref="phone>index:phone>untitled-2">
       <caption webpage="index" alt=""/>
       <caption webpage="untitled-2" alt=""/>
@@ -158,8 +158,8 @@
       <file name="index.css" crc="4071465344" ref="phone>index"/>
       <file name="untitled-2.css" crc="3786420610" ref="phone>untitled-2"/>
     </folder>
-    <file name="index.html" crc="3768410851" seo="true" mt="1573287231980" redirect="true"/>
-    <file name="untitled-2.html" crc="412331802" seo="true" mt="1573287223372" redirect="true"/>
+    <file name="index.html" crc="359343773" seo="true" mt="1573287516992" redirect="true"/>
+    <file name="untitled-2.html" crc="252646566" seo="true" mt="1573287570096" redirect="true"/>
   </folder>
   <file name="index.html" crc="4081570827" seo="true" mt="1573219817498" redirect="true"/>
 </manifest>
