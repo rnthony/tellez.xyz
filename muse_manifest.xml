@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tellez.xyz" resolutions="1x" timestamp="1573357985695">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tellez.xyz" resolutions="1x" timestamp="1573358526154">
   <folder name="assets">
     <file name="anthony-tellez-resume.pdf" crc="159904318" seo="true" mt="1573240790000"/>
   </folder>
@@ -150,8 +150,8 @@
       <file name="index.css" crc="503451871" ref="phone>index"/>
       <file name="untitled-2.css" crc="3857750641" ref="phone>untitled-2"/>
     </folder>
-    <file name="index.html" crc="477601746" seo="true" mt="1573357938613" redirect="true"/>
-    <file name="untitled-2.html" crc="3821716864" seo="true" mt="1573357964191" redirect="true"/>
+    <file name="index.html" crc="4176739510" seo="true" mt="1573358493196" redirect="true"/>
+    <file name="untitled-2.html" crc="3946867201" seo="true" mt="1573358500456" redirect="true"/>
   </folder>
   <file name="index.html" crc="4081570827" seo="true" mt="1573219817498" redirect="true"/>
 </manifest>
