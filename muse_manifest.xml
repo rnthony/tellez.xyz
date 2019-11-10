@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tellez.xyz" resolutions="1x" timestamp="1573358526154">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tellez.xyz" resolutions="1x" timestamp="1573409478332">
   <folder name="assets">
     <file name="anthony-tellez-resume.pdf" crc="159904318" seo="true" mt="1573240790000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="3865173809"/>
-    <file name="master_a-master.css" crc="342037651" ref="index"/>
+    <file name="master_a-master.css" crc="3943965902" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index"/>
-    <file name="index.css" crc="377221818" ref="index"/>
+    <file name="index.css" crc="4054238587" ref="index"/>
     <file name="nomq_index.css" crc="148440277" ref="index"/>
   </folder>
   <folder name="fonts">
@@ -43,11 +43,21 @@
     <file name="selfie.jpg" crc="4279311831" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="instagram icon.png" crc="466986829" seo="true" ref="phone>index:index">
+    <file name="instagram icon.png" crc="466986829" seo="true" ref="phone>index:index:phone>untitled-2">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
     </file>
-    <file name="emailicon.png" crc="311954492" seo="true" ref="phone>index:index">
+    <file name="emailicon.png" crc="311954492" seo="true" ref="phone>index:index:phone>untitled-2">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
     </file>
     <file name="img_4674.jpg" crc="441629096" ref="index">
       <caption webpage="index" alt=""/>
@@ -62,67 +72,8 @@
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="spriteroute1.jpg" crc="272367059" seo="true" ref="phone>untitled-2">
       <caption webpage="untitled-2" alt=""/>
-      <caption webpage="untitled-2" alt=""/>
-      <caption webpage="untitled-2" alt=""/>
-      <caption webpage="untitled-2" alt=""/>
-      <caption webpage="untitled-2" alt=""/>
-      <caption webpage="untitled-2" alt=""/>
-      <caption webpage="untitled-2" alt=""/>
-      <caption webpage="untitled-2" alt=""/>
-      <caption webpage="untitled-2" alt=""/>
-      <caption webpage="untitled-2" alt=""/>
-      <caption webpage="untitled-2" alt=""/>
-      <caption webpage="untitled-2" alt=""/>
-      <caption webpage="untitled-2" alt=""/>
-      <caption webpage="untitled-2" alt=""/>
-      <caption webpage="untitled-2" alt=""/>
-      <caption webpage="untitled-2" alt=""/>
-      <caption webpage="untitled-2" alt=""/>
-      <caption webpage="untitled-2" alt=""/>
-      <caption webpage="untitled-2" alt=""/>
-      <caption webpage="untitled-2" alt=""/>
-      <caption webpage="untitled-2" alt=""/>
-      <caption webpage="untitled-2" alt=""/>
-      <caption webpage="untitled-2" alt=""/>
-      <caption webpage="untitled-2" alt=""/>
-      <caption webpage="untitled-2" alt=""/>
-      <caption webpage="untitled-2" alt=""/>
-      <caption webpage="untitled-2" alt=""/>
-      <caption webpage="untitled-2" alt=""/>
-      <caption webpage="untitled-2" alt=""/>
-      <caption webpage="untitled-2" alt=""/>
-      <caption webpage="untitled-2" alt=""/>
-      <caption webpage="untitled-2" alt=""/>
-      <caption webpage="untitled-2" alt=""/>
-    </file>
-    <file name="spriteroute2.png" crc="418703779" seo="true" ref="phone>untitled-2">
-      <caption webpage="untitled-2" alt=""/>
-    </file>
-    <file name="spriteroute3.png" crc="32294442" seo="true" ref="phone>untitled-2">
-      <caption webpage="untitled-2" alt=""/>
-      <caption webpage="untitled-2" alt=""/>
-      <caption webpage="untitled-2" alt=""/>
-      <caption webpage="untitled-2" alt=""/>
-      <caption webpage="untitled-2" alt=""/>
-      <caption webpage="untitled-2" alt=""/>
-    </file>
-    <file name="spriteroute7.png" crc="179533956" seo="true" ref="phone>untitled-2">
-      <caption webpage="untitled-2" alt=""/>
-      <caption webpage="untitled-2" alt=""/>
     </file>
     <file name="spriteroute6.jpg" crc="3961662668" seo="true" ref="phone>untitled-2">
-      <caption webpage="untitled-2" alt=""/>
-      <caption webpage="untitled-2" alt=""/>
-      <caption webpage="untitled-2" alt=""/>
-      <caption webpage="untitled-2" alt=""/>
-    </file>
-    <file name="spritepoi2.png" crc="4152153397" seo="true" ref="phone>untitled-2">
-      <caption webpage="untitled-2" alt=""/>
-      <caption webpage="untitled-2" alt=""/>
-      <caption webpage="untitled-2" alt=""/>
-      <caption webpage="untitled-2" alt=""/>
-    </file>
-    <file name="spritepoi1.png" crc="3894011559" seo="true" ref="phone>untitled-2">
       <caption webpage="untitled-2" alt=""/>
     </file>
     <file name="uconn logo.png" crc="4115993818" seo="true" ref="phone>untitled-2">
@@ -140,18 +91,20 @@
     <file name="berkeleylogo.png" crc="319225590" seo="true" ref="phone>untitled-2">
       <caption webpage="untitled-2" alt=""/>
     </file>
-    <file name="new map (pkmn)339x339.png" crc="4073120832" seo="true" ref="phone>untitled-2">
+    <file name="new map (pkmn2).png" crc="3958834909" seo="true" ref="phone>untitled-2">
       <caption webpage="untitled-2" alt=""/>
     </file>
   </folder>
   <folder name="phone">
     <folder name="css">
       <file name="master_a-master.css" crc="102180279" ref="phone>index:phone>untitled-2"/>
-      <file name="index.css" crc="503451871" ref="phone>index"/>
-      <file name="untitled-2.css" crc="3857750641" ref="phone>untitled-2"/>
+      <file name="index.css" crc="429287946" ref="phone>index"/>
+      <file name="untitled-2.css" crc="59304564" ref="phone>untitled-2"/>
+      <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="phone>index:phone>untitled-2"/>
+      <file name="nomq_untitled-2.css" crc="3824530138" ref="phone>untitled-2"/>
     </folder>
-    <file name="index.html" crc="4176739510" seo="true" mt="1573358493196" redirect="true"/>
-    <file name="untitled-2.html" crc="3946867201" seo="true" mt="1573358500456" redirect="true"/>
+    <file name="index.html" crc="3919938261" seo="true" mt="1573409460315" redirect="true"/>
+    <file name="untitled-2.html" crc="386938291" seo="true" mt="1573409441603" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4081570827" seo="true" mt="1573219817498" redirect="true"/>
+  <file name="index.html" crc="55938395" seo="true" mt="1573392734966" redirect="true"/>
 </manifest>
