@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tellez.xyz" resolutions="1x" timestamp="1573506160031">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tellez.xyz" resolutions="1x" timestamp="1573524060119">
   <folder name="assets">
     <file name="anthony-tellez-resume.pdf" crc="159904318" seo="true" mt="1573240790000"/>
   </folder>
@@ -24,6 +24,9 @@
     <file name="sfprodisplay-regular1.svg" crc="4111037584"/>
     <file name="entypo.woff" crc="462750044"/>
     <file name="entypo.eot" crc="180193024"/>
+    <file name="sfprotext-bold1.woff" crc="4011649130"/>
+    <file name="sfprotext-bold1.eot" crc="3807878149"/>
+    <file name="sfprotext-bold1.svg" crc="4222457611"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index:phone>untitled-2"/>
@@ -92,11 +95,11 @@
   <folder name="phone">
     <folder name="css">
       <file name="master_a-master.css" crc="102180279" ref="phone>index:phone>untitled-2"/>
-      <file name="index.css" crc="4150041807" ref="phone>index"/>
-      <file name="untitled-2.css" crc="3838056030" ref="phone>untitled-2"/>
+      <file name="index.css" crc="470756247" ref="phone>index"/>
+      <file name="untitled-2.css" crc="83997520" ref="phone>untitled-2"/>
     </folder>
-    <file name="index.html" crc="412584177" seo="true" mt="1573506144629" redirect="true"/>
-    <file name="untitled-2.html" crc="32159541" seo="true" mt="1573506132709" redirect="true"/>
+    <file name="index.html" crc="4082753429" seo="true" mt="1573508291170" redirect="true"/>
+    <file name="untitled-2.html" crc="4158993464" seo="true" mt="1573509530080" redirect="true"/>
   </folder>
   <file name="index.html" crc="55938395" seo="true" mt="1573392734966" redirect="true"/>
 </manifest>
