@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tellez.xyz" resolutions="1x" timestamp="1573533030371">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tellez.xyz" resolutions="1x" timestamp="1573533417548">
   <folder name="assets">
     <file name="anthony-tellez-resume.pdf" crc="159904318" seo="true" mt="1573240790000"/>
   </folder>
@@ -38,10 +38,10 @@
     <file name="museconfig.js" crc="4286661555" ref="phone>index:index:phone>untitled-2:phone>untitled-2-copy"/>
     <file name="jquery.watch.js" crc="51536988" ref="phone>index:index:phone>untitled-2:phone>untitled-2-copy"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="phone>index:index"/>
-    <file name="webpro.js" crc="4059564322" ref="index:phone>untitled-2:phone>index"/>
-    <file name="musewpslideshow.js" crc="3862962738" ref="index:phone>untitled-2:phone>index"/>
-    <file name="jquery.museoverlay.js" crc="4147669564" ref="index:phone>untitled-2:phone>index"/>
-    <file name="touchswipe.js" crc="4075097462" ref="index:phone>untitled-2:phone>index"/>
+    <file name="webpro.js" crc="4059564322" ref="index:phone>untitled-2:phone>index:phone>untitled-2-copy"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index:phone>untitled-2:phone>index:phone>untitled-2-copy"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index:phone>untitled-2:phone>index:phone>untitled-2-copy"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index:phone>untitled-2:phone>index:phone>untitled-2-copy"/>
     <file name="require.js" crc="7928878" ref="phone>index:index:phone>untitled-2:phone>untitled-2-copy"/>
     <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
   </folder>
@@ -49,13 +49,13 @@
     <file name="selfie.jpg" crc="4279311831" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="instagram icon.png" crc="466986829" seo="true" ref="phone>index:index:phone>untitled-2">
+    <file name="instagram icon.png" crc="466986829" seo="true" ref="phone>index:index:phone>untitled-2:phone>untitled-2-copy">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="untitled-2-copy" alt=""/>
       <caption webpage="untitled-2" alt=""/>
     </file>
-    <file name="emailicon.png" crc="311954492" seo="true" ref="phone>index:index:phone>untitled-2">
+    <file name="emailicon.png" crc="311954492" seo="true" ref="phone>index:index:phone>untitled-2:phone>untitled-2-copy">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="untitled-2-copy" alt=""/>
@@ -103,13 +103,13 @@
   <folder name="phone">
     <folder name="css">
       <file name="master_a-master.css" crc="102180279" ref="phone>index:phone>untitled-2:phone>untitled-2-copy"/>
-      <file name="index.css" crc="295312634" ref="phone>index"/>
-      <file name="untitled-2.css" crc="4012225443" ref="phone>untitled-2"/>
-      <file name="untitled-2-copy.css" crc="4097225881" ref="phone>untitled-2-copy"/>
+      <file name="index.css" crc="412948713" ref="phone>index"/>
+      <file name="untitled-2.css" crc="452249788" ref="phone>untitled-2"/>
+      <file name="untitled-2-copy.css" crc="4089654353" ref="phone>untitled-2-copy"/>
     </folder>
-    <file name="index.html" crc="3972846225" seo="true" mt="1573532805869" redirect="true"/>
-    <file name="untitled-2.html" crc="85495195" seo="true" mt="1573533009977" redirect="true"/>
-    <file name="untitled-2-copy.html" crc="3964746815" seo="true" mt="1573532952257" redirect="true"/>
+    <file name="index.html" crc="434292547" seo="true" mt="1573533265901" redirect="true"/>
+    <file name="untitled-2.html" crc="168845088" seo="true" mt="1573533364167" redirect="true"/>
+    <file name="untitled-2-copy.html" crc="3812710189" seo="true" mt="1573533170875" redirect="true"/>
   </folder>
   <file name="index.html" crc="55938395" seo="true" mt="1573392734966" redirect="true"/>
 </manifest>
