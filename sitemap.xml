@@ -17,14 +17,20 @@
     </image:image>
   </url>
   <url>
-    <loc>http://tellez.xyz/phone/untitled-2.html</loc>
-    <lastmod>2019-11-11</lastmod>
+    <loc>http://tellez.xyz/phone/higher-ed-journey.html</loc>
+    <lastmod>2019-11-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://tellez.xyz/phone/untitled-2-copy.html</loc>
-    <lastmod>2019-11-11</lastmod>
+    <loc>http://tellez.xyz/phone/construction.html</loc>
+    <lastmod>2019-11-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://tellez.xyz/phone/construction-copy.html</loc>
+    <lastmod>2019-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

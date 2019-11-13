@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tellez.xyz" resolutions="1x" timestamp="1573533417548">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tellez.xyz" resolutions="1x" timestamp="1573659635947">
   <folder name="assets">
     <file name="anthony-tellez-resume.pdf" crc="159904318" seo="true" mt="1573240790000"/>
   </folder>
@@ -32,32 +32,38 @@
     <file name="sfprotext-regularitalic.svg" crc="4163915658"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index:phone>untitled-2:phone>untitled-2-copy"/>
-    <file name="museutils.js" crc="340535759" ref="phone>index:index:phone>untitled-2:phone>untitled-2-copy"/>
-    <file name="whatinput.js" crc="86476730" ref="phone>index:index:phone>untitled-2:phone>untitled-2-copy"/>
-    <file name="museconfig.js" crc="4286661555" ref="phone>index:index:phone>untitled-2:phone>untitled-2-copy"/>
-    <file name="jquery.watch.js" crc="51536988" ref="phone>index:index:phone>untitled-2:phone>untitled-2-copy"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index:phone>higher-ed-journey:phone>construction:phone>construction-copy"/>
+    <file name="museutils.js" crc="340535759" ref="phone>index:index:phone>higher-ed-journey:phone>construction:phone>construction-copy"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:index:phone>higher-ed-journey:phone>construction:phone>construction-copy"/>
+    <file name="museconfig.js" crc="4286661555" ref="phone>index:index:phone>higher-ed-journey:phone>construction:phone>construction-copy"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index:index:phone>higher-ed-journey:phone>construction:phone>construction-copy"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="phone>index:index"/>
-    <file name="webpro.js" crc="4059564322" ref="index:phone>untitled-2:phone>index:phone>untitled-2-copy"/>
-    <file name="musewpslideshow.js" crc="3862962738" ref="index:phone>untitled-2:phone>index:phone>untitled-2-copy"/>
-    <file name="jquery.museoverlay.js" crc="4147669564" ref="index:phone>untitled-2:phone>index:phone>untitled-2-copy"/>
-    <file name="touchswipe.js" crc="4075097462" ref="index:phone>untitled-2:phone>index:phone>untitled-2-copy"/>
-    <file name="require.js" crc="7928878" ref="phone>index:index:phone>untitled-2:phone>untitled-2-copy"/>
+    <file name="webpro.js" crc="4059564322" ref="index:phone>index:phone>higher-ed-journey:phone>construction:phone>construction-copy"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index:phone>index:phone>higher-ed-journey:phone>construction:phone>construction-copy"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index:phone>index:phone>higher-ed-journey:phone>construction:phone>construction-copy"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index:phone>index:phone>higher-ed-journey:phone>construction:phone>construction-copy"/>
+    <file name="require.js" crc="7928878" ref="phone>index:index:phone>higher-ed-journey:phone>construction:phone>construction-copy"/>
     <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
   </folder>
   <folder name="images">
     <file name="selfie.jpg" crc="4279311831" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="instagram icon.png" crc="466986829" seo="true" ref="phone>index:index:phone>untitled-2:phone>untitled-2-copy">
+    <file name="instagram icon.png" crc="466986829" seo="true" ref="phone>index:index:phone>higher-ed-journey:phone>construction:phone>construction-copy">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="higher-ed-journey" alt=""/>
+      <caption webpage="construction" alt=""/>
+      <caption webpage="construction-copy" alt=""/>
       <caption webpage="untitled-2-copy" alt=""/>
       <caption webpage="untitled-2" alt=""/>
     </file>
-    <file name="emailicon.png" crc="311954492" seo="true" ref="phone>index:index:phone>untitled-2:phone>untitled-2-copy">
+    <file name="emailicon.png" crc="311954492" seo="true" ref="phone>index:index:phone>higher-ed-journey:phone>construction:phone>construction-copy">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="higher-ed-journey" alt=""/>
+      <caption webpage="construction" alt=""/>
+      <caption webpage="construction-copy" alt=""/>
       <caption webpage="untitled-2-copy" alt=""/>
       <caption webpage="untitled-2" alt=""/>
     </file>
@@ -72,44 +78,88 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="spriteroute1.jpg" crc="272367059" seo="true" ref="phone>untitled-2">
+    <file name="spriteroute1.jpg" crc="272367059" seo="true" ref="phone>higher-ed-journey">
+      <caption webpage="higher-ed-journey" alt=""/>
       <caption webpage="untitled-2" alt=""/>
     </file>
-    <file name="spriteroute6.jpg" crc="3961662668" seo="true" ref="phone>untitled-2">
+    <file name="spriteroute6.jpg" crc="3961662668" seo="true" ref="phone>higher-ed-journey">
+      <caption webpage="higher-ed-journey" alt=""/>
       <caption webpage="untitled-2" alt=""/>
     </file>
-    <file name="uconn logo.png" crc="4115993818" seo="true" ref="phone>untitled-2">
+    <file name="uconn logo.png" crc="4115993818" seo="true" ref="phone>higher-ed-journey">
+      <caption webpage="higher-ed-journey" alt=""/>
       <caption webpage="untitled-2" alt=""/>
     </file>
-    <file name="bcclogo.png" crc="3826983863" seo="true" ref="phone>untitled-2">
+    <file name="bcclogo.png" crc="3826983863" seo="true" ref="phone>higher-ed-journey">
+      <caption webpage="higher-ed-journey" alt=""/>
       <caption webpage="untitled-2" alt=""/>
     </file>
-    <file name="rutgerslogo.png" crc="4250733788" seo="true" ref="phone>untitled-2">
+    <file name="rutgerslogo.png" crc="4250733788" seo="true" ref="phone>higher-ed-journey">
+      <caption webpage="higher-ed-journey" alt=""/>
       <caption webpage="untitled-2" alt=""/>
     </file>
-    <file name="pacelogo.png" crc="4161748874" seo="true" ref="phone>untitled-2">
+    <file name="pacelogo.png" crc="4161748874" seo="true" ref="phone>higher-ed-journey">
+      <caption webpage="higher-ed-journey" alt=""/>
       <caption webpage="untitled-2" alt=""/>
     </file>
-    <file name="berkeleylogo.png" crc="319225590" seo="true" ref="phone>untitled-2">
+    <file name="berkeleylogo.png" crc="319225590" seo="true" ref="phone>higher-ed-journey">
+      <caption webpage="higher-ed-journey" alt=""/>
       <caption webpage="untitled-2" alt=""/>
     </file>
-    <file name="new map (pkmn2).png" crc="3958834909" seo="true" ref="phone>untitled-2">
+    <file name="new map (pkmn2).png" crc="3958834909" seo="true" ref="phone>higher-ed-journey">
+      <caption webpage="higher-ed-journey" alt=""/>
       <caption webpage="untitled-2" alt=""/>
     </file>
-    <file name="scout.png" crc="273960317" seo="true" ref="phone>untitled-2-copy">
+    <file name="scout.png" crc="273960317" seo="true" ref="phone>construction-copy">
       <caption webpage="untitled-2-copy" alt=""/>
+      <caption webpage="construction-copy" alt=""/>
+    </file>
+    <file name="prlaccpreview.jpg" crc="3890429751" seo="true" ref="phone>construction">
+      <caption webpage="construction" alt=""/>
+    </file>
+    <file name="dutysignpreview.jpg" crc="74267945" seo="true" ref="phone>construction">
+      <caption webpage="construction" alt=""/>
+    </file>
+    <file name="prbpreview.jpg" crc="3787361051" seo="true" ref="phone>construction">
+      <caption webpage="construction" alt=""/>
+    </file>
+    <file name="mcmahonrlmpreview.jpg" crc="80943742" seo="true" ref="phone>construction">
+      <caption webpage="construction" alt=""/>
+    </file>
+    <file name="springopening.jpg" crc="4069427532" seo="true" ref="phone>construction">
+      <caption webpage="construction" alt=""/>
+    </file>
+    <file name="residentassistantclubpreview.jpg" crc="268112993" seo="true" ref="phone>construction">
+      <caption webpage="construction" alt=""/>
+    </file>
+    <file name="nelslcwebsite.jpg" crc="3760735615" seo="true" ref="phone>construction">
+      <caption webpage="construction" alt=""/>
+    </file>
+    <file name="clubluncheonpreview.jpg" crc="529673100" seo="true" ref="phone>construction">
+      <caption webpage="construction" alt=""/>
+    </file>
+    <file name="pacedoordecpreview.jpg" crc="4037463147" seo="true" ref="phone>construction">
+      <caption webpage="construction" alt=""/>
+    </file>
+    <file name="eoyrpreview.jpg" crc="342626820" seo="true" ref="phone>construction">
+      <caption webpage="construction" alt=""/>
+    </file>
+    <file name="badgepreview.jpg" crc="3967836863" seo="true" ref="phone>construction">
+      <caption webpage="construction" alt=""/>
     </file>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="102180279" ref="phone>index:phone>untitled-2:phone>untitled-2-copy"/>
-      <file name="index.css" crc="412948713" ref="phone>index"/>
-      <file name="untitled-2.css" crc="452249788" ref="phone>untitled-2"/>
-      <file name="untitled-2-copy.css" crc="4089654353" ref="phone>untitled-2-copy"/>
+      <file name="master_a-master.css" crc="102180279" ref="phone>index:phone>higher-ed-journey:phone>construction:phone>construction-copy"/>
+      <file name="index.css" crc="346774685" ref="phone>index"/>
+      <file name="higher-ed-journey.css" crc="4078329603" ref="phone>higher-ed-journey"/>
+      <file name="construction.css" crc="531814301" ref="phone>construction"/>
+      <file name="construction-copy.css" crc="295242910" ref="phone>construction-copy"/>
     </folder>
-    <file name="index.html" crc="434292547" seo="true" mt="1573533265901" redirect="true"/>
-    <file name="untitled-2.html" crc="168845088" seo="true" mt="1573533364167" redirect="true"/>
-    <file name="untitled-2-copy.html" crc="3812710189" seo="true" mt="1573533170875" redirect="true"/>
+    <file name="index.html" crc="4236235671" seo="true" mt="1573659173980" redirect="true"/>
+    <file name="higher-ed-journey.html" crc="4192613145" seo="true" mt="1573659588842" redirect="true"/>
+    <file name="construction.html" crc="255572990" seo="true" mt="1573659279509" redirect="true"/>
+    <file name="construction-copy.html" crc="4254277821" seo="true" mt="1573561332633" redirect="true"/>
   </folder>
   <file name="index.html" crc="55938395" seo="true" mt="1573392734966" redirect="true"/>
 </manifest>
