@@ -1,12 +1,13 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tellez.xyz" resolutions="1x" timestamp="1574027749738">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tellez.xyz" resolutions="1x" timestamp="1574028149016">
   <folder name="assets">
     <file name="anthony-tellez-resume.pdf" crc="159904318" seo="true" mt="1573240790000"/>
     <file name="anthony-tellez-resume2.pdf" crc="159904318" seo="true" mt="1573241000000"/>
+    <file name="resume.pdf" crc="4034399421" seo="true" mt="1574026382000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="3798226974"/>
-    <file name="master_a-master.css" crc="435976894" ref="index"/>
-    <file name="index.css" crc="4177572438" ref="index"/>
+    <file name="master_a-master.css" crc="197242723" ref="index"/>
+    <file name="index.css" crc="11080978" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="sfprotext-regular.woff" crc="416383421"/>
@@ -40,34 +41,34 @@
     <file name="museconfig.js" crc="4286661555" ref="phone>index:index:phone>higher-ed-journey:phone>construction:phone>construction-copy:phone>hesa-core-competencies:phone>home-copy"/>
     <file name="jquery.watch.js" crc="51536988" ref="phone>index:index:phone>higher-ed-journey:phone>construction:phone>construction-copy:phone>hesa-core-competencies:phone>home-copy"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="phone>index:index:phone>home-copy"/>
-    <file name="webpro.js" crc="4059564322" ref="phone>higher-ed-journey:phone>construction:phone>construction-copy:phone>hesa-core-competencies"/>
-    <file name="musewpslideshow.js" crc="3862962738" ref="phone>higher-ed-journey:phone>construction:phone>construction-copy:phone>hesa-core-competencies"/>
-    <file name="jquery.museoverlay.js" crc="4147669564" ref="phone>higher-ed-journey:phone>construction:phone>construction-copy:phone>hesa-core-competencies"/>
-    <file name="touchswipe.js" crc="4075097462" ref="phone>higher-ed-journey:phone>construction:phone>construction-copy:phone>hesa-core-competencies"/>
+    <file name="webpro.js" crc="4059564322" ref="phone>higher-ed-journey:phone>construction:phone>construction-copy:phone>hesa-core-competencies:phone>index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="phone>higher-ed-journey:phone>construction:phone>construction-copy:phone>hesa-core-competencies:phone>index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="phone>higher-ed-journey:phone>construction:phone>construction-copy:phone>hesa-core-competencies:phone>index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="phone>higher-ed-journey:phone>construction:phone>construction-copy:phone>hesa-core-competencies:phone>index"/>
     <file name="require.js" crc="7928878" ref="phone>index:index:phone>higher-ed-journey:phone>construction:phone>construction-copy:phone>hesa-core-competencies:phone>home-copy"/>
   </folder>
   <folder name="images">
     <file name="instagram icon.png" crc="466986829" seo="true" ref="phone>index:index:phone>higher-ed-journey:phone>construction:phone>construction-copy:phone>hesa-core-competencies:phone>home-copy">
       <caption webpage="higher-ed-journey" alt=""/>
-      <caption webpage="construction-copy" alt=""/>
-      <caption webpage="home-copy" alt=""/>
       <caption webpage="untitled-2-copy" alt=""/>
+      <caption webpage="hesa-core-competencies" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="construction" alt=""/>
-      <caption webpage="hesa-core-competencies" alt=""/>
-      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="construction-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
     </file>
     <file name="emailicon.png" crc="311954492" seo="true" ref="phone>index:index:phone>higher-ed-journey:phone>construction:phone>construction-copy:phone>hesa-core-competencies:phone>home-copy">
       <caption webpage="higher-ed-journey" alt=""/>
-      <caption webpage="construction-copy" alt=""/>
-      <caption webpage="home-copy" alt=""/>
       <caption webpage="untitled-2-copy" alt=""/>
+      <caption webpage="hesa-core-competencies" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="construction" alt=""/>
-      <caption webpage="hesa-core-competencies" alt=""/>
-      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="construction-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
     </file>
     <file name="img_4674.jpg" crc="441629096" ref="index">
       <caption webpage="index" alt=""/>
@@ -155,19 +156,19 @@
   <folder name="phone">
     <folder name="css">
       <file name="master_a-master.css" crc="102180279" ref="phone>index:phone>higher-ed-journey:phone>construction:phone>construction-copy:phone>hesa-core-competencies:phone>home-copy"/>
-      <file name="index.css" crc="3813477263" ref="phone>index"/>
-      <file name="higher-ed-journey.css" crc="68903084" ref="phone>higher-ed-journey"/>
+      <file name="index.css" crc="217500683" ref="phone>index"/>
+      <file name="higher-ed-journey.css" crc="4250669253" ref="phone>higher-ed-journey"/>
       <file name="construction.css" crc="75948449" ref="phone>construction"/>
       <file name="construction-copy.css" crc="295242910" ref="phone>construction-copy"/>
       <file name="hesa-core-competencies.css" crc="4081796187" ref="phone>hesa-core-competencies"/>
       <file name="home-copy.css" crc="269471097" ref="phone>home-copy"/>
     </folder>
-    <file name="index.html" crc="271363024" seo="true" mt="1574027742849" redirect="true"/>
-    <file name="higher-ed-journey.html" crc="280231041" seo="true" mt="1573663411864" redirect="true"/>
+    <file name="index.html" crc="152830730" seo="true" mt="1574028115231" redirect="true"/>
+    <file name="higher-ed-journey.html" crc="4131479203" seo="true" mt="1574028129222" redirect="true"/>
     <file name="construction.html" crc="3909589314" seo="true" mt="1573663346758" redirect="true"/>
     <file name="construction-copy.html" crc="4254277821" seo="true" mt="1573561332633" redirect="true"/>
     <file name="hesa-core-competencies.html" crc="4122900711" seo="true" mt="1573663350659" redirect="true"/>
     <file name="home-copy.html" crc="222772502" seo="true" mt="1574027742847" redirect="true"/>
   </folder>
-  <file name="index.html" crc="506683474" seo="true" mt="1574027683279" redirect="true"/>
+  <file name="index.html" crc="54906262" seo="true" mt="1574027993556" redirect="true"/>
 </manifest>
